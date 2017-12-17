@@ -1,0 +1,4 @@
+data_batch_*
+test_batch
+*.tar.gz
+*.tar
